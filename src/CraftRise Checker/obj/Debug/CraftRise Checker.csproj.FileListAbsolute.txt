@@ -1,0 +1,7 @@
+C:\Users\aleaf\Desktop\CraftRise Checker\CraftRise Checker\bin\Debug\CraftRise Checker.exe.config
+C:\Users\aleaf\Desktop\CraftRise Checker\CraftRise Checker\bin\Debug\CraftRise Checker.exe
+C:\Users\aleaf\Desktop\CraftRise Checker\CraftRise Checker\bin\Debug\CraftRise Checker.pdb
+C:\Users\aleaf\Desktop\CraftRise Checker\CraftRise Checker\obj\Debug\CraftRise Checker.csprojAssemblyReference.cache
+C:\Users\aleaf\Desktop\CraftRise Checker\CraftRise Checker\obj\Debug\CraftRise Checker.csproj.CoreCompileInputs.cache
+C:\Users\aleaf\Desktop\CraftRise Checker\CraftRise Checker\obj\Debug\CraftRise Checker.exe
+C:\Users\aleaf\Desktop\CraftRise Checker\CraftRise Checker\obj\Debug\CraftRise Checker.pdb
